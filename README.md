@@ -36,11 +36,9 @@ I'm Robson! Undergraduate student in Biomedical Informatics at UFCSPA, computer 
 <br><br>
 
 ### 💡 Interests
-• Bioinformatics
-<br>
 • Health Informatics
 <br>
-• Artificial Intelligence
+• Machine Learning
 <br>
 • Image Processing
 <br>
