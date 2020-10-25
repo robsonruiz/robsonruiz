@@ -11,8 +11,6 @@ I'm Robson! Undergraduate student in Biomedical Informatics at UFCSPA, computer 
 </a>
 <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonruiz&layout=compact)](https://github.com/robsonruiz/github-readme-stats)
-
 ### 💡 Interests
 • Health Informatics
 <br>
@@ -23,3 +21,6 @@ I'm Robson! Undergraduate student in Biomedical Informatics at UFCSPA, computer 
 • Data Analysis
 <br>
 • UX and UI Design
+<br><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonruiz&layout=compact)](https://github.com/robsonruiz/github-readme-stats)
