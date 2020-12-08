@@ -20,5 +20,3 @@ I'm Robson! Undergraduate student in Biomedical Informatics at UFCSPA, computer 
 <br>
 • Data Analysis
 <br>
-• UX and UI Design
-<br><br>
