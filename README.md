@@ -12,8 +12,8 @@
 ```javascript
 const rob = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, Java],
-  tools: [React, Laravel],
+  code: [Javascript, HTML, CSS, Python, Dart, Java],
+  tools: [React, React Native, Flutter, Laravel],
   databases: [MySQL, Firebase],
   interests: [Data Science, Machine Learning, Deep Learning, Frontend Development],
 }
