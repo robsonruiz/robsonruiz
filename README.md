@@ -2,8 +2,6 @@
 ### I'm Robson,
 🧬 BSc in Biomedical Informatics
 <br/>
-🖥️ Master's Student at UFCSPA
-<br/>
 👨‍💻 Web Production Analyst at Dell
 <br/><br/>
 [![Linkedin: robsondruiz](https://img.shields.io/badge/-robsondruiz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/robsondruiz/)](https://www.linkedin.com/in/robsondruiz/)
