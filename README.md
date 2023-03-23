@@ -10,7 +10,7 @@
 ```javascript
 const rob = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Python, Dart, Java],
+  code: [Javascript, HTML, CSS, Python, Dart],
   tools: [React, React Native, Flutter, Laravel],
   databases: [MySQL, Firebase],
   interests: [Data Science, Machine Learning, Deep Learning, Frontend Development],
